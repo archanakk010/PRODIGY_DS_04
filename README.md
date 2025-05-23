@@ -1,4 +1,4 @@
-# Sentiment Analysis of Twitter Data¶
+# Sentiment Analysis of Twitter Data
 
 ##  Project Overview
 This project analyzes Twitter data to determine the sentiment (Positive, Negative, or Neutral) expressed in tweets. It helps understand public opinions and emotions toward specific topics, products, or brands.
